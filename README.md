@@ -1,5 +1,5 @@
 # Pong
-Juego Pong hecho en Java.
+Juego Pong hecho en Java. Hecho en noviembre, 2018.
 
 ## Imagenes de gameplay
 ### Inicio
