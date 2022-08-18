@@ -1,0 +1,8 @@
+INSTRUCCIONES:
+Mivimiento de la barra de la izquierda:
+Arriba: W
+Abajo: S
+
+Mivimiento de la barra de la derecha:
+Arriba: O
+Abajo: K
